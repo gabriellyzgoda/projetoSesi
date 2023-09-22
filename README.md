@@ -1,3 +1,3 @@
 # projetoSesi
 
-lembrei do comando: git statuss
+lembrei do comando: git log
